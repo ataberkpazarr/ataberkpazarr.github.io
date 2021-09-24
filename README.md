@@ -40,7 +40,7 @@ jeeps) in its around and whenever a car in the traffic collides to the convoy, o
 harder in next levels by making highway traffic more crowded. The main skeleton of the game is taken by 
 https://www.youtube.com/watch?v=iXa0riFpWGQ playlist and customized then.
 
-![resim](https://user-images.githubusercontent.com/55497058/134745684-f504edaf-97e9-4d1e-881a-d4e92190235c.png)
-![resim](https://user-images.githubusercontent.com/55497058/134745725-a3e27c42-5817-44b0-a48c-a0714d1333f7.png)
+![resim](https://user-images.githubusercontent.com/55497058/134747565-a8ffa103-d3c6-46d9-bed3-7931542c995a.png)
+
 
 
