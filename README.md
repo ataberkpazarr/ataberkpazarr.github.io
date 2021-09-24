@@ -9,7 +9,7 @@ same colour all row. For etc. İf all row elements are green then player gets po
 locked and that row’s elements become unmoveable. Highest scores are set to 1000 from default and if user finishes the 
 level with a score higher than 1000, then the new level is being opened. Developed and specified the game by watching an 
 Udemy course. (https://www.udemy.com/course/make-a-puzzle-match-game-in-unity/ )
-All the levels takes places in the same scene with changing width, height etc. Configurations. 
+All the levels takes places in the same scene with changing width, height etc. configurations. 
 
 ![resim](https://user-images.githubusercontent.com/55497058/134746670-5bf0750b-8fd0-4552-ae76-fccfb7d66fd5.png)
 
@@ -18,7 +18,7 @@ All the levels takes places in the same scene with changing width, height etc. C
 
 ## [Project 2: CubeSurfer 3D](https://github.com/ataberkpazarr/CubeSurfer3D)
 
- CubeSurfer3D is famous game of Voodoo Studio’s. It is avaliable for both Android 
+CubeSurfer3D is famous game of Voodoo Studio’s. It is avaliable for both Android 
 and IOS. I had tried to make clone of it.  I only implemented 3 levels. For the sake of development, it is not in 9:16 
 resolutions, it is in 16:9 resolutions, that’s why the below screenshots are seems wide. In the game, the main 
 player may collect the red cubes, and increase its size, may take from coin and increase its stored coin(right up 
