@@ -11,11 +11,7 @@ level with a score higher than 1000, then the new level is being opened. Develop
 Udemy course. (https://www.udemy.com/course/make-a-puzzle-match-game-in-unity/ )
 All the levels takes places in the same scene with changing width, height etc. Configurations. 
 
-![resim](https://user-images.githubusercontent.com/55497058/134745559-afc29412-236d-4039-837a-d836b4e08385.png)
-![resim](https://user-images.githubusercontent.com/55497058/134745615-8a54cb82-a747-4584-82e2-9f6d3ae9d735.png)
-![resim](https://user-images.githubusercontent.com/55497058/134745605-8d835a36-f69b-489a-b1db-44b69d37f65a.png)
-![resim](https://user-images.githubusercontent.com/55497058/134745641-97ce1830-4543-44d7-ae41-d057d0cd6f96.png)
-![resim](https://user-images.githubusercontent.com/55497058/134745651-f460e91b-1514-45c7-a998-ce03c95dbeae.png)
+![resim](https://user-images.githubusercontent.com/55497058/134745559-afc29412-236d-4039-837a-d836b4e08385.png)![resim](https://user-images.githubusercontent.com/55497058/134745615-8a54cb82-a747-4584-82e2-9f6d3ae9d735.png)![resim](https://user-images.githubusercontent.com/55497058/134745605-8d835a36-f69b-489a-b1db-44b69d37f65a.png)![resim](https://user-images.githubusercontent.com/55497058/134745641-97ce1830-4543-44d7-ae41-d057d0cd6f96.png)![resim](https://user-images.githubusercontent.com/55497058/134745651-f460e91b-1514-45c7-a998-ce03c95dbeae.png)
 
 
 ## [Project 2: CubeSurfer 3D](https://github.com/ataberkpazarr/CubeSurfer3D)
