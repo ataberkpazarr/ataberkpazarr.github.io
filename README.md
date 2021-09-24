@@ -42,5 +42,21 @@ https://www.youtube.com/watch?v=iXa0riFpWGQ playlist and customized then.
 
 ![resim](https://user-images.githubusercontent.com/55497058/134747565-a8ffa103-d3c6-46d9-bed3-7931542c995a.png)
 
+## Project 4: Shorty Climb
+
+Tried to implement clone game of ShortyClimb. Character moves between 
+surfaces and whenever it goes outside of the surface, the carried steps are started to consumed and being 
+instantiated in the locations where user walks. The main logic in moving as following; character is moving ahead 
+by default with a constant velocity and the direction of the character depends on the user mouse input, 
+wherever user drags mouse character goes towards that direction. For implementing this behaviour I found a 
+free joystick package in Unity and embed joystick as GameObject to the scene. Joystick gameobject gets active 
+whenever user click with mouse and deactivated whenever user release the mouse but it never being seen by 
+user (invisible in gameplay but exists in below screenshots). But going back movement is not stabilized thus I deactivated it and also the repo exists in my 
+Github as well as the other games, but this one is in private repo.
+
+![resim](https://user-images.githubusercontent.com/55497058/134748132-87f9beb4-dd64-49e6-aa88-065375503f51.png)
+
+
+
 
 
