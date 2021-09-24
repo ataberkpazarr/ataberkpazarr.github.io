@@ -16,6 +16,7 @@ All the levels takes places in the same scene with changing width, height etc. C
 ![resim](https://user-images.githubusercontent.com/55497058/134745605-8d835a36-f69b-489a-b1db-44b69d37f65a.png)
 ![resim](https://user-images.githubusercontent.com/55497058/134745641-97ce1830-4543-44d7-ae41-d057d0cd6f96.png)
 ![resim](https://user-images.githubusercontent.com/55497058/134745651-f460e91b-1514-45c7-a998-ce03c95dbeae.png)
+---
 
 
 ## [Project 2: CubeSurfer 3D](https://github.com/ataberkpazarr/CubeSurfer3D)
