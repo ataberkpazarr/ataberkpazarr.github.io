@@ -25,7 +25,8 @@ player may collect the red cubes, and increase its size, may take from coin and 
 corner), may collide an obstacle and it can lose size with respected to collided object’s size, and also we are 
 able to see the way that player took in the above of screen (180). 
 
-![resim](https://user-images.githubusercontent.com/55497058/134747027-a46b070e-7855-45ad-99f5-6a902f4f4879.png)
+![resim](https://user-images.githubusercontent.com/55497058/134747044-702f62d7-bb2b-482f-9319-8e5f1e0e9c51.png)
+
 
 
 
