@@ -66,3 +66,27 @@ of bugs. But starting from this one, bugs are minimalized and the codes are much
 
 ![resim](https://user-images.githubusercontent.com/55497058/134748662-1627ab29-d531-4535-aa67-1797bf064e13.png)
 
+## [Project 6: Tower Defence 2D]
+
+In this project, I tried to develop a similar game to Rooster Defense game which is a famous tower defence game. As a skeleton I watched and 
+finished the Udemy course https://www.udemy.com/course/learn-how-to-create-a-2d-tower-defense-game-in-unity-2020 and then changed lots of things to make it similar to Rooster Defense game. Since it is a 2D game which covers the screen, below screenshots are wide and not in classical mobile game resolution.
+
+The game mechanics are as following:
+
+At the end of every wave, enemy’s initial healths , spawning a new turret cost and earning per kill to 
+player(relatively small increase ), are being increased. If the wave can not be completed, game reload 
+the same wave. Turrets are permanent and being saved with their levels and locations. When game 
+is exitted and started again, previous game’s turrets are being loaded at saved locations with saved 
+amount of coins. Also There is a delete Player Prefs button at the game, if its pressed, all saved player 
+prefs are being resetted and game is being restarted. In the turret upgrade operation, whenever user 
+selectes a turret by mouse, a pop-up emerges with options of Destroy/Upgrade if upgrade is being 
+selected then it is being checked if any possible match exists with same type of turret, if it exists then 
+selected one upgraded at the same node whereas other one is destroyed.
+
+![resim](https://user-images.githubusercontent.com/55497058/134749031-fce78c63-4bc9-4822-8f2c-0858f45dac60.png)
+![resim](https://user-images.githubusercontent.com/55497058/134749090-e86f4a8a-6317-4eaa-af68-df1d352363d2.png)
+![resim](https://user-images.githubusercontent.com/55497058/134749153-9b51a756-3566-4302-a96e-93ac04844d4a.png)
+![resim](https://user-images.githubusercontent.com/55497058/134749178-2468de7a-7d01-442d-a2f5-6a042000aa5b.png)
+
+
+
