@@ -2,7 +2,7 @@
 
 # Unity Projects
 
-## [Project 1: Row-match 2D game](https://github.com/ataberkpazarr/Row-Match-type-2D-Puzzle-Game)
+### [Project 1: Row-match 2D game](https://github.com/ataberkpazarr/Row-Match-type-2D-Puzzle-Game)
 
 Row-match game with 10 levels. Like candy crush but player only gets point if he/she makes 
 same colour all row. For etc. İf all row elements are green then player gets points with respected to its colour and the row 
@@ -16,7 +16,7 @@ All the levels takes places in the same scene with changing width, height etc. c
 
 
 
-## [Project 2: CubeSurfer 3D](https://github.com/ataberkpazarr/CubeSurfer3D)
+### [Project 2: CubeSurfer 3D](https://github.com/ataberkpazarr/CubeSurfer3D)
 
 CubeSurfer3D is famous game of Voodoo Studio’s. It is avaliable for both Android 
 and IOS. I had tried to make clone of it.  I only implemented 3 levels. For the sake of development, it is not in 9:16 
@@ -32,7 +32,7 @@ able to see the way that player took in the above of screen (180).
 
 
 
-## [Project 3: Motorcade Guard Game 3D](https://github.com/ataberkpazarr/Motorcade-Guard-Unity-Project) 
+### [Project 3: Motorcade Guard Game 3D](https://github.com/ataberkpazarr/Motorcade-Guard-Unity-Project) 
 
 3D Traffic Racer type of a game. Bunch of different cars can be selected by the 
 player. Player moves in 9-lined highway with his/her selected car. The main car has 6 guards (hummer type of 
@@ -42,7 +42,7 @@ https://www.youtube.com/watch?v=iXa0riFpWGQ playlist and customized then.
 
 ![resim](https://user-images.githubusercontent.com/55497058/134747565-a8ffa103-d3c6-46d9-bed3-7931542c995a.png)
 
-## Project 4: Shorty Climb Clone 3D
+### Project 4: Shorty Climb Clone 3D
 
 Tried to implement clone game of ShortyClimb. Character moves between 
 surfaces and whenever it goes outside of the surface, the carried steps are started to consumed and being 
@@ -56,7 +56,7 @@ Github as well as the other games, but this one is in private repo.
 
 ![resim](https://user-images.githubusercontent.com/55497058/134748132-87f9beb4-dd64-49e6-aa88-065375503f51.png)
 
-## [Project 5: StackyDash Clone 3D](https://github.com/ataberkpazarr/Stacky-Dash-Clone) 
+### [Project 5: StackyDash Clone 3D](https://github.com/ataberkpazarr/Stacky-Dash-Clone) 
 
 In this project, I tried to make a clone of StackyDash mobile game which is avaliable in 
 Ios and Android. I implemented 3 levels and game mechanics. Also I used a free Unity plugin which is called Path Creator 
@@ -66,7 +66,7 @@ of bugs. But starting from this one, bugs are minimalized and the codes are much
 
 ![resim](https://user-images.githubusercontent.com/55497058/134748662-1627ab29-d531-4535-aa67-1797bf064e13.png)
 
-## [Project 6: Tower Defence 2D](https://github.com/ataberkpazarr/Tower-Defence-2D)
+### [Project 6: Tower Defence 2D](https://github.com/ataberkpazarr/Tower-Defence-2D)
 
 In this project, I tried to develop a similar game to Rooster Defense game which is a famous tower defence game. As a skeleton I watched and 
 finished the Udemy course https://www.udemy.com/course/learn-how-to-create-a-2d-tower-defense-game-in-unity-2020 and then changed lots of things to make it similar to Rooster Defense game. Since it is a 2D game which covers the screen, below screenshots are wide and not in classical mobile game resolution.
