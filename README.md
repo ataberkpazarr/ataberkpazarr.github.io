@@ -25,9 +25,8 @@ player may collect the red cubes, and increase its size, may take from coin and 
 corner), may collide an obstacle and it can lose size with respected to collided object’s size, and also we are 
 able to see the way that player took in the above of screen (180). 
 
-![resim](https://user-images.githubusercontent.com/55497058/134745499-70471104-2710-455f-812b-0f207b39d112.png)
-![resim](https://user-images.githubusercontent.com/55497058/134745523-e9175a8f-b33a-457d-968b-2354db191106.png)
-![resim](https://user-images.githubusercontent.com/55497058/134745542-eebd94c6-a9cd-475d-aa65-b59de84ca8c1.png)
+![resim](https://user-images.githubusercontent.com/55497058/134746868-10ccfe8b-fc55-4509-aeb5-aff1b5e372e0.png)
+
 
 
 ## [Project 3: Motorcade Guard Game 3D](https://github.com/ataberkpazarr/Motorcade-Guard-Unity-Project) 
