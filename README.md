@@ -1,5 +1,3 @@
-# ataberkpazarr.github.io
-portfolio
 
 # Unity Projects
 # Motorcade Guard Game 
