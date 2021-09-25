@@ -89,4 +89,18 @@ selected one upgraded at the same node whereas other one is destroyed.
 ![resim](https://user-images.githubusercontent.com/55497058/134749178-2468de7a-7d01-442d-a2f5-6a042000aa5b.png)
 
 
+# Other Github Projects
+
+ ### [Project 1: AWS-Websocket-Chat-Application](https://github.com/ataberkpazarr/AWS-Websocket-Chat-Application)
+
+Developed an web-socket real time chat application architecture with AWS Lambda, Websocket API Gateway and DynamoDB. Also nodeJs and Python is used
+
+![resim](https://user-images.githubusercontent.com/55497058/134750264-339e73ad-e574-4e96-a1e6-5eff34694489.png)
+
+### [Project 2: Mask Detection Webcam App](https://github.com/ataberkpazarr/Mask-Detection-Webcam-App---Python)
+
+A program, using machine learning, which decides if the person, in webcam's view, wears a mask or not. Very detailed information is on the link that embedded on the header.
+
+![resim](https://user-images.githubusercontent.com/55497058/134750594-c9d75377-6cc9-4161-aa4f-0a3271d65280.png)
+
 
