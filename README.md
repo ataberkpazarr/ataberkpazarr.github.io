@@ -104,3 +104,33 @@ A program, using machine learning, which decides if the person, in webcam's view
 ![resim](https://user-images.githubusercontent.com/55497058/134750594-c9d75377-6cc9-4161-aa4f-0a3271d65280.png)
 
 
+# Undergraduate Projects
+
+## Group Projects:
+
+### Graduation Project
+Aimed to create an ampihibious autonomous vehicle, due to Covid-19 it is half finished. I handled with computer vision and CV-Image Processing related algorithms. 
+### Machine Learning Course (CS412) 
+Used Adaboost, implementing it with Python, in Google Colab. Created a model that  assumes if a customer will pay its credit debt in future, used data had 700.000 rows and 60 columns. 
+### Cyber Security Course (CS432)
+Cryptographic signatures, encryption, decryption implementations for secure communication between server and multi clients with using C#. 
+### Cryptography Course (CS411) 
+Implementing digital signature for blockchain transactions, implementing proof of work (POW) and creating blockhain with using elliptic curve digital signature algorithm (ECDSA) with C#. 
+### Software Engineering Course (CS308)
+Implementing E-Commerce web-site, dealing with front-end back-end parts, with C#, Vue, Amazon online database. 
+### Internet Protocols Course (CS408)
+Implementation of server- multi client connections and other challenging specifications like observing the traffic by server etc, C# used. 
+### Mobile Application Course (CS310) 
+Android Studio project which was about developing a mobile application to Android  Studio. Developed a fitness-diet application. 
+### DBMS Course (CS306) 
+Developing basic web-site including a relational database, with using Sql, PHP, HTML. 
+
+## Self Projects:
+### Operating System Course (CS308): 
+Developing a desktop program which was about simuliation of an OS, including insturments of OS like cache etc, with using Java. 
+### Physical Computing Course (VA455): 
+Ardunio and Python involved project, which determines if the person in computer’s vision wears a medical mask or not. 
+### Logic-system Course (CS303): 
+Self-project by using Xlinx. 
+### Data Science Course (CS210):
+About the positive correlation between the World Happiness Index and GDP per capita with usage of python.
