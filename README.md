@@ -91,7 +91,7 @@ selected one upgraded at the same node whereas other one is destroyed.
 
 # Other Github Projects
 
- ### [Project 1: AWS-Websocket-Chat-Application](https://github.com/ataberkpazarr/AWS-Websocket-Chat-Application)
+### [Project 1: AWS-Websocket-Chat-Application](https://github.com/ataberkpazarr/AWS-Websocket-Chat-Application)
 
 Developed an web-socket real time chat application architecture with AWS Lambda, Websocket API Gateway and DynamoDB. Also nodeJs and Python is used
 
