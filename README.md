@@ -87,6 +87,18 @@ selected one upgraded at the same node whereas other one is destroyed.
 ![resim](https://user-images.githubusercontent.com/55497058/134749153-9b51a756-3566-4302-a96e-93ac04844d4a.png)
 ![resim](https://user-images.githubusercontent.com/55497058/134749178-2468de7a-7d01-442d-a2f5-6a042000aa5b.png)
 
+### [Project 7: Walking Shooter 3D](https://github.com/ataberkpazarr/walking-Shooter-3D)
+
+This project can not be classified as finished game but it is a trial for myself. I used some new mechanics and features that I have not experienced before.
+
+I used New Unity Input System and a brand new Third Person Character Controller Package. In this project a character walks through the area which it exists by W-A-S-D controllers, runs when pressed shift and jumps with space, aims with right click and shoots with left click.
+
+<img width="483" alt="Resim1" src="https://user-images.githubusercontent.com/55497058/147158099-8345f91b-5fed-4e0e-9ddb-255a712f64af.png">
+
+<img width="454" alt="Resim2" src="https://user-images.githubusercontent.com/55497058/147158120-1edb8bf9-aa57-444c-ae58-2a98463fc9d2.png">
+
+
+
 
 # Other Github Projects
 
