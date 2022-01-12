@@ -97,7 +97,39 @@ I used New Unity Input System and a brand new Third Person Character Controller 
 
 <img width="454" alt="Resim2" src="https://user-images.githubusercontent.com/55497058/147158120-1edb8bf9-aa57-444c-ae58-2a98463fc9d2.png">
 
+### [Project 8: Flappy Bird 2D](https://github.com/ataberkpazarr/FlappyBird-2D)
 
+The game written over 2D template of Unity. As external package, DoTween used and required sprites (pipes,bird,clouds etc.) are provided by a flappy bird package.
+
+Jump of bird is being controlled by the space key. There are 3 levels on the game, difficulty of first and second can be classified between easy-med whereas third level is a bit harder.
+
+Only difference from the real game is some pipes are rotating on their own spheres.
+
+![resim](https://user-images.githubusercontent.com/55497058/149045711-ff8efa86-caa7-4713-a3e2-cca48b4e3794.png)
+
+![resim](https://user-images.githubusercontent.com/55497058/149045721-427b7533-befb-47a4-a4a2-2718eef01c15.png)
+
+
+###[Project:9 GameJam- Piggy-Rush 3D](https://github.com/ataberkpazarr/GameJam)
+
+Gamejam is arranged by the bootcamp of Patika.dev & Rollic games and the main theme was designing&implementing of a games of chance.
+
+As a team, which consists of 2 artist and 2 developers we built it in 5-7 days. We tried to implement a spin-off of the Wish You Luck game of Rollic Games and changeed theme in a smoother way. The main mechanic is as following: piggy is being controlled by slide mechanics and as long as we collect coins, scale of the pig is being increased, if the piggy collides with hammer, it lose coins and its scale decreases. At the end of level game asks player to tap for collecting coins which it already collected, at every
+tap hammer hits to piggy and player gains the coins that it collected during the level.
+
+Screen shots from game are as following;
+
+![resim](https://user-images.githubusercontent.com/55497058/149045807-13708037-2b82-4556-9c31-34b40f5e80c8.png)
+
+![resim](https://user-images.githubusercontent.com/55497058/149045894-75f3a50f-abb7-499b-9a7f-3b428b21ed9b.png)
+
+![resim](https://user-images.githubusercontent.com/55497058/149046010-2e2ec969-80d1-4ade-8e86-639f9aa8ffe4.png)
+
+![resim](https://user-images.githubusercontent.com/55497058/149046059-595e470f-cd6b-4537-9913-2066bbcbbd5c.png)
+
+![resim](https://user-images.githubusercontent.com/55497058/149046247-3159aaf1-02c0-4096-8265-dc6f7078f7fc.png)
+
+![resim](https://user-images.githubusercontent.com/55497058/149046193-13d3c41e-5645-41e6-aeea-7aaf88004578.png)
 
 
 # Other Github Projects
