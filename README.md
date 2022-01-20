@@ -132,6 +132,28 @@ Screen shots from game are as following;
 ![resim](https://user-images.githubusercontent.com/55497058/149046193-13d3c41e-5645-41e6-aeea-7aaf88004578.png)
 
 
+### [Project:10 Space Invaders 2D](https://github.com/ataberkpazarr/Space-Invaders-2D)
+
+Clone of space invaders game, main mechanic and gameplay implemented and done, it is possible to play a level and win it or game over.
+
+Current version in a nutshell:
+
+-Player movement is being controlled by mouse whereas the shoot behaviour of player is being controlled by space key
+
+-Player is allowed to shoot one projectile at a time, until its fired projectile collides somewhere, it is not allowed to fire a new one
+
+-invaders send missile continously, based on a random interval
+
+-While the total alive amount of invaders are decreasing, their speed increasing
+
+![resim](https://user-images.githubusercontent.com/55497058/150341692-9d5762b8-da20-4ee6-b5bb-b8c9f90f5c0b.png)
+![resim](https://user-images.githubusercontent.com/55497058/150341732-07a499a7-987c-40bb-8d49-ca16c17aa47a.png)
+
+![resim](https://user-images.githubusercontent.com/55497058/150341774-4d0be37f-2b3b-4a90-8cb5-497313f5fb16.png)
+![resim](https://user-images.githubusercontent.com/55497058/150341797-5d155def-2a3a-4911-a486-2a16609f591f.png)
+
+
+
 # Other Github Projects
 
 ### [Project 1: AWS-Websocket-Chat-Application](https://github.com/ataberkpazarr/AWS-Websocket-Chat-Application)
