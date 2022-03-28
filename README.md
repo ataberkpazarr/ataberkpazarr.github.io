@@ -2,6 +2,24 @@
 
 # Unity Projects
 
+
+### [Project:13 Bricks&Bombs](https://github.com/ataberkpazarr/LibraSoftworksCase-Ataberk)
+
+The main logic is destroying all bricks at the level, by bombs which are located by user. There is no visual explosion except indicating all bricks with green tick logos, if the placed bombs are able to destroy all located bricks. 
+
+At every level user has certain amount of bombs to locate and this amount is equal to minimum required amount of bombs for destroying that level's all bricks + 2. If user spends all bombs for passing the level, it gets 1 star, if he lefts 1 bomb extra at the end of level, it gets 2 stars and it gets 3 stars if 2 bombs left at the end of level. Number of minimum bombs for the level that user selected to play, is being calculated at runtime by an algorithm that I wrote.
+
+At every 5 level, it is being calculated that if the average of total earned stars by previous levels are equal to 2 or not. If it does not, then level is not being opened and user has to replay previous levels and increase its total earned stars. 
+
+GamePlay Video: https://drive.google.com/file/d/11hQS3YqPVpiXrM_ahWWUQO4irm1NxEQO/view?usp=sharing
+
+<img width="197" alt="Ekran Resmi 2022-03-28 18 55 36" src="https://user-images.githubusercontent.com/55497058/160443456-c62b3d0b-81aa-40a7-a7e2-5ab800c2aab0.png"><img width="197" alt="Ekran Resmi 2022-03-28 18 55 43" src="https://user-images.githubusercontent.com/55497058/160443504-281d20a0-ae78-45a4-ad62-4df96d306809.png"><img width="197" alt="Ekran Resmi 2022-03-28 18 55 56" src="https://user-images.githubusercontent.com/55497058/160443567-496bf7d2-08d9-4dd0-ae3a-638642bb352f.png"><img width="197" alt="Ekran Resmi 2022-03-28 18 58 02" src="https://user-images.githubusercontent.com/55497058/160443581-0ec2ebe3-df1a-40ff-a075-d900f6ef96af.png">
+
+
+
+
+
+
 ### [Project:12 Shuffe Escape](https://github.com/ataberkpazarr/Bootcamp-Final-Project)
 Two robber characters are led on the road, which consists of two parallel platforms. The camera is looking forward from the back. Two characters who committed a bank robbery and escaped from the roof are driving down the road with bags full of money in their laps. Between parallel platforms, only bags can slide left and right, and the characters try to protect the bags that they already collected, by sending them to each other throughout the level.
 
