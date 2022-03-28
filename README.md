@@ -2,6 +2,16 @@
 
 # Unity Projects
 
+### [Project:12 Shuffe Escape](https://github.com/ataberkpazarr/Bootcamp-Final-Project)
+Two robber characters are led on the road, which consists of two parallel platforms. The camera is looking forward from the back. Two characters who committed a bank robbery and escaped from the roof are driving down the road with bags full of money in their laps. Between parallel platforms, only bags can slide left and right, and the characters try to protect the bags that they already collected, by sending them to each other throughout the level.
+
+This was final project of Hyper Casual Mobile Game Development Bootcamp, held by Rollic Games. We worked on this project as a team of 2 artists and 2 developers. Build the idea of game together as a team, and merged two game mechanics which have demonstraded succes, ShortCut Run of Voodoo and Shuffle Master of Rollic. The project was really satisfying for all of us from all aspects and we all enjoyed a lot during building it. It took aproximately one month for us to to finalize it, from ideation to playable 3 levels.
+
+GamePlay Video:https://drive.google.com/file/d/18aLHvPBB9nK634mmobNQ1iaLl_a_EitB/view 
+
+<img width="900" alt="Ekran Resmi 2022-03-28 18 49 49" src="https://user-images.githubusercontent.com/55497058/160437322-711293ad-3478-4124-bd59-3bbbfb97db1c.png"><img width="565" alt="Ekran Resmi 2022-03-28 18 50 37" src="https://user-images.githubusercontent.com/55497058/160437452-0e21f4a1-0662-41eb-ab5c-7a7ec343493b.png">
+
+
 
 ### [Project:11 PILE IT 3D](https://github.com/ataberkpazarr/PileIt-3D/)
 
