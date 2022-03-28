@@ -9,9 +9,7 @@ Pile It 3D is game of Supersonic Studios with a demonstrated success. This game 
 
 GamePlay Video:https://drive.google.com/file/d/1_Es3eXQFyxxSMquMuS9s_N5Ohlikimd1/view?usp=sharing
 
-<img width="195" alt="Ekran Resmi 2022-03-28 18 19 04" src="https://user-images.githubusercontent.com/55497058/160431117-48351cb5-f2b1-465b-b3a0-fd56fb0a6c1e.png">
-<img width="195" alt="Ekran Resmi 2022-03-28 18 28 29" src="https://user-images.githubusercontent.com/55497058/160433962-ba74be6a-0c3a-4fec-9fa3-870dfd7583c2.png">
-<img width="195" alt="Ekran Resmi 2022-03-28 18 29 08" src="https://user-images.githubusercontent.com/55497058/160434017-1db1f2e7-e07a-4040-9d06-0b728b2290c9.png">
+<img width="195" alt="Ekran Resmi 2022-03-28 18 19 04" src="https://user-images.githubusercontent.com/55497058/160431117-48351cb5-f2b1-465b-b3a0-fd56fb0a6c1e.png"><img width="195" alt="Ekran Resmi 2022-03-28 18 28 29" src="https://user-images.githubusercontent.com/55497058/160433962-ba74be6a-0c3a-4fec-9fa3-870dfd7583c2.png"><img width="195" alt="Ekran Resmi 2022-03-28 18 29 08" src="https://user-images.githubusercontent.com/55497058/160434017-1db1f2e7-e07a-4040-9d06-0b728b2290c9.png">
 
 
 
