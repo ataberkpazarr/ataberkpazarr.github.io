@@ -10,7 +10,7 @@ At every level user has certain amount of bombs to locate and this amount is equ
 
 At every 5 level, it is being calculated that if the average of total earned stars by previous levels are equal to 2 or not. If it does not, then level is not being opened and user has to replay previous levels and increase its total earned stars. 
 
-##GamePlay Video(https://drive.google.com/file/d/11hQS3YqPVpiXrM_ahWWUQO4irm1NxEQO/view?usp=sharing)
+###GamePlay Video(https://drive.google.com/file/d/11hQS3YqPVpiXrM_ahWWUQO4irm1NxEQO/view?usp=sharing)
 
 <img width="197" alt="Ekran Resmi 2022-03-28 18 55 36" src="https://user-images.githubusercontent.com/55497058/160443456-c62b3d0b-81aa-40a7-a7e2-5ab800c2aab0.png"><img width="197" alt="Ekran Resmi 2022-03-28 18 55 43" src="https://user-images.githubusercontent.com/55497058/160443504-281d20a0-ae78-45a4-ad62-4df96d306809.png"><img width="197" alt="Ekran Resmi 2022-03-28 18 55 56" src="https://user-images.githubusercontent.com/55497058/160443567-496bf7d2-08d9-4dd0-ae3a-638642bb352f.png"><img width="197" alt="Ekran Resmi 2022-03-28 18 58 02" src="https://user-images.githubusercontent.com/55497058/160443581-0ec2ebe3-df1a-40ff-a075-d900f6ef96af.png"><img width="197" alt="Ekran Resmi 2022-03-28 19 26 17" src="https://user-images.githubusercontent.com/55497058/160444021-d69e1fa9-eff5-4aa5-b6c2-94109d98792f.png">
 
