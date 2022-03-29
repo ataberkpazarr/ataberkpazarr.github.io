@@ -2,7 +2,6 @@
 
 # Unity Projects
 
-
 ### [Project:13 Bricks&Bombs](https://github.com/ataberkpazarr/LibraSoftworksCase-Ataberk)
 
 The main logic is destroying all bricks at the level, by bombs which are located by user. There is no visual explosion except indicating all bricks with green tick logos, if the placed bombs are able to destroy all located bricks. 
