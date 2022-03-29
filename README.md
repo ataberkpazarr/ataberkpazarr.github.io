@@ -10,7 +10,7 @@ At every level user has certain amount of bombs to locate and this amount is equ
 
 At every 5 level, it is being calculated that if the average of total earned stars by previous levels are equal to 2 or not. If it does not, then level is not being opened and user has to replay previous levels and increase its total earned stars. 
 
-GamePlay Video: https://drive.google.com/file/d/11hQS3YqPVpiXrM_ahWWUQO4irm1NxEQO/view?usp=sharing
+GamePlay Video(https://drive.google.com/file/d/11hQS3YqPVpiXrM_ahWWUQO4irm1NxEQO/view?usp=sharing)
 
 <img width="197" alt="Ekran Resmi 2022-03-28 18 55 36" src="https://user-images.githubusercontent.com/55497058/160443456-c62b3d0b-81aa-40a7-a7e2-5ab800c2aab0.png"><img width="197" alt="Ekran Resmi 2022-03-28 18 55 43" src="https://user-images.githubusercontent.com/55497058/160443504-281d20a0-ae78-45a4-ad62-4df96d306809.png"><img width="197" alt="Ekran Resmi 2022-03-28 18 55 56" src="https://user-images.githubusercontent.com/55497058/160443567-496bf7d2-08d9-4dd0-ae3a-638642bb352f.png"><img width="197" alt="Ekran Resmi 2022-03-28 18 58 02" src="https://user-images.githubusercontent.com/55497058/160443581-0ec2ebe3-df1a-40ff-a075-d900f6ef96af.png"><img width="197" alt="Ekran Resmi 2022-03-28 19 26 17" src="https://user-images.githubusercontent.com/55497058/160444021-d69e1fa9-eff5-4aa5-b6c2-94109d98792f.png">
 
@@ -20,7 +20,7 @@ Two robber characters are led on the road, which consists of two parallel platfo
 
 This was final project of Hyper Casual Mobile Game Development Bootcamp, held by Rollic Games. We worked on this project as a team of 2 artists and 2 developers. Build the idea of game together as a team, and merged two game mechanics which have demonstraded succes, ShortCut Run of Voodoo and Shuffle Master of Rollic. The project was really satisfying for all of us from all aspects and we all enjoyed a lot during building it. It took aproximately one month for us to to finalize it, from ideation to playable 3 levels.
 
-GamePlay Video:https://drive.google.com/file/d/18aLHvPBB9nK634mmobNQ1iaLl_a_EitB/view 
+GamePlay Video(https://drive.google.com/file/d/18aLHvPBB9nK634mmobNQ1iaLl_a_EitB/view) 
 
 <img width="900" alt="Ekran Resmi 2022-03-28 18 49 49" src="https://user-images.githubusercontent.com/55497058/160437322-711293ad-3478-4124-bd59-3bbbfb97db1c.png"><img width="565" alt="Ekran Resmi 2022-03-28 18 50 37" src="https://user-images.githubusercontent.com/55497058/160437452-0e21f4a1-0662-41eb-ab5c-7a7ec343493b.png">
 
@@ -30,7 +30,7 @@ GamePlay Video:https://drive.google.com/file/d/18aLHvPBB9nK634mmobNQ1iaLl_a_EitB
 
 Pile It 3D is game of Supersonic Studios with a demonstrated success. This game is based on Pile It 3D's game mechanic with different assets. The main logic, placing cars to the park spots with respected to their colors. If colors of car and its final spot does not match, player fails. If player succeeds to place all cars, respected to colors of park spots, then level is accomplished. Player opens gates of waiting cars by below yellow&purple buttons and released car goes straight until it finds the deepest empty slot.
 
-GamePlay Video:https://drive.google.com/file/d/1_Es3eXQFyxxSMquMuS9s_N5Ohlikimd1/view?usp=sharing
+GamePlay Video(https://drive.google.com/file/d/1_Es3eXQFyxxSMquMuS9s_N5Ohlikimd1/view?usp=sharing)
 
 <img width="195" alt="Ekran Resmi 2022-03-28 18 19 04" src="https://user-images.githubusercontent.com/55497058/160431117-48351cb5-f2b1-465b-b3a0-fd56fb0a6c1e.png"><img width="195" alt="Ekran Resmi 2022-03-28 18 28 29" src="https://user-images.githubusercontent.com/55497058/160433962-ba74be6a-0c3a-4fec-9fa3-870dfd7583c2.png"><img width="195" alt="Ekran Resmi 2022-03-28 18 29 08" src="https://user-images.githubusercontent.com/55497058/160434017-1db1f2e7-e07a-4040-9d06-0b728b2290c9.png">
 
