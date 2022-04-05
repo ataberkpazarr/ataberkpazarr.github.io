@@ -4,7 +4,7 @@
 
 ### [Project:14 Rotate&Match](https://github.com/ataberkpazarr/Pow-Case)
 
-https://drive.google.com/file/d/1kOI6u8m4y6rCHc2CiU1BDv0R8u1EUIGC/view?usp=sharing
+[GamePlay Video](https://drive.google.com/file/d/1kOI6u8m4y6rCHc2CiU1BDv0R8u1EUIGC/view?usp=sharing)
 
 
 ### [Project:13 Bricks&Bombs](https://github.com/ataberkpazarr/LibraSoftworksCase-Ataberk)
